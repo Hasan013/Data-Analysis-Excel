@@ -1,7 +1,7 @@
 # Insights to the Marketing Team in the Food & Beverage Industry
 
 ## Exciting News! 
-I am very excited to submit the Codebasics' "Data Analysis Resume Project Challenge 6"! 
+I am very excited to submit this project.
 
 ## Challenge Objective:
 Providing Insights to the Marketing Team in the Food & Beverage Industry.
