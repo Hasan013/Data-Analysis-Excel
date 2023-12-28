@@ -1,3 +1,4 @@
+![Food & Beverage Industry](https://github.com/Hasan013/Data-Analysis-Excel/blob/main/Food%20%26%20Beverage%20Industry/Presentation/Insights%20for%20the%20Marketing%20Team.PNG)
 # Insights to the Marketing Team in the Food & Beverage Industry
 #### [Link for Video Presentation](https://www.linkedin.com/posts/hasan-raza-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-dnm5?utm_source=share&utm_medium=member_android) 
 
