@@ -1,40 +1,70 @@
-![Food & Beverage Industry](https://github.com/Hasan013/Data-Analysis-Excel/blob/main/Food%20%26%20Beverage%20Industry/Presentation/Insights%20for%20the%20Marketing%20Team.PNG)
-# Insights to the Marketing Team in the Food & Beverage Industry
-#### [Link for Video Presentation](https://www.linkedin.com/posts/hasan-raza-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-dnm5?utm_source=share&utm_medium=member_android) 
+# 🍽️ Marketing Insights for the Food & Beverage Industry
 
-## Exciting News! 
-I am very excited to submit this project.
+![Food & Beverage](https://github.com/Hasan013/Data-Analysis-Excel/blob/main/Food%20%26%20Beverage%20Industry/Presentation/Insights%20for%20the%20Marketing%20Team.png)
 
-## Challenge Objective:
-Providing Insights to the Marketing Team in the Food & Beverage Industry.
+🎥 [Watch the Presentation](https://www.linkedin.com/posts/hasan-raja-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-nZcD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxir-cBh5Sg8wmRHsYLqfbQOTWPp88coOo)
 
-## Problems Tackled:
-1. Improving brand perception
-2. Identifying target audience/consumer segments
-3. Locating key areas for meaningful product development insights
-4. Crafting an effective marketing strategy
+---
 
-## Tasks Accomplished:
-- Demographic Insights 
-- Consumer Preferences 
-- Competition Analysis 
-- Marketing Channels and Brand Awareness 
-- Brand Penetration 
-- Purchase Behavior 
-- Product Development Suggestions 
+## 🎯 Project Overview
 
-## Recommendations for Codebasics! 
-1.	Elevate brand reputation, enhance taste, ensure wider availability. 
-2.	Ideal prices: Tier 1 - ₹100 to ₹150, Tier 2 - ₹50 to ₹99. 
-3.	Strategies: Online marketing on smartphones, engaging social media campaigns, exclusive online discounts. 
-4.	Brand Ambassador: Virat Kohli for his widespread popularity, strong youth appeal, fitness lifestyle association. 
-5.	Target Audience: Focus on the dynamic youth demographic for strategic market impact. 
+This project delivers **consumer insights** and **strategic recommendations** to help marketing teams in the food & beverage industry:
 
-## Tools Used:
-Excel (Data Analysis & Visualsation)
-Powerpoint (Video Presentation)
+- Understand target customers  
+- Strengthen brand perception  
+- Drive product development  
+- Launch more effective campaigns
 
-## Feedback Needed:
-I invite you to explore the presentation. Your valuable feedback is crucial for my skill enhancement.
+The analysis reflects the real-world challenges F&B brands face when trying to win in crowded, competitive markets.
 
-Thank you! 
+---
+
+## 🧩 Problems Tackled
+
+1. Weak brand perception and low awareness  
+2. Unclear target audience across markets  
+3. Lack of data-backed product innovation  
+4. Marketing efforts not aligned with buyer behavior  
+
+---
+
+## 📊 Key Insights Delivered
+
+- 🎯 **Target Audience Segmentation** - by age, income and region  
+- 💬 **Consumer Preferences** - taste, packaging, pricing, value  
+- 🏆 **Competition Analysis** - key gaps and benchmarks  
+- 📈 **Marketing Channels** - most effective by customer type  
+- 🛍️ **Purchase Behavior** - online vs offline, price sensitivity  
+- 🚀 **New Product Ideas** - aligned with youth expectations
+
+---
+
+## ✅ Recommendations
+
+- **Improve brand reputation** through quality, availability and communication  
+- **Ideal pricing:** ₹100–150 (Tier 1 cities), ₹50–99 (Tier 2)  
+- **Use digital channels** like online discounts and mobile-first campaigns  
+- **Brand Ambassador:** Virat Kohli — connects with youth and fitness-focused consumers  
+- **Focus on Gen Z & Millennials** — biggest growth segment in F&B  
+
+---
+
+## 🛠️ Tools Used
+
+- **Excel** – for data cleaning, analysis and visuals  
+- **PowerPoint** – for storytelling and presentation delivery  
+
+---
+
+## 💬 Feedback Welcome
+
+These insights can help F&B and DTC brands **craft smarter marketing strategies**, **identify winning products** and **drive growth using data** not guesswork.   
+
+If you are a brand or growth leader looking to understand customers better, I would love to hear your feedback.
+
+📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)     
+🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)    
+🌐 **Portfolio:** [https://hasan013.github.io/](https://hasan013.github.io/)       
+
+
+🎥 [Watch the Presentation](https://www.linkedin.com/posts/hasan-raja-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-nZcD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxir-cBh5Sg8wmRHsYLqfbQOTWPp88coOo)
