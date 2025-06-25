@@ -2,7 +2,7 @@
 
 ![Food & Beverage](https://github.com/Hasan013/Data-Analysis-Excel/blob/main/Food%20%26%20Beverage%20Industry/Presentation/Insights%20for%20the%20Marketing%20Team.png)
 
-🎥 [Watch the Presentation](https://www.linkedin.com/posts/hasan-raja-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-nZcD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxir-cBh5Sg8wmRHsYLqfbQOTWPp88coOo)
+🎥 [Watch the Video Presentation](https://www.linkedin.com/posts/hasan-raja-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-nZcD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxir-cBh5Sg8wmRHsYLqfbQOTWPp88coOo)
 
 ---
 
@@ -44,8 +44,8 @@ The analysis reflects the real-world challenges F&B brands face when trying to w
 - **Improve brand reputation** through quality, availability and communication  
 - **Ideal pricing:** ₹100–150 (Tier 1 cities), ₹50–99 (Tier 2)  
 - **Use digital channels** like online discounts and mobile-first campaigns  
-- **Brand Ambassador:** Virat Kohli — connects with youth and fitness-focused consumers  
-- **Focus on Gen Z & Millennials** — biggest growth segment in F&B  
+- **Brand Ambassador:** Virat Kohli - connects with youth and fitness-focused consumers  
+- **Focus on Gen Z & Millennials** - biggest growth segment in F&B  
 
 ---
 
@@ -67,4 +67,4 @@ If you are a brand or growth leader looking to understand customers better, I wo
 🌐 **Portfolio:** [https://hasan013.github.io/](https://hasan013.github.io/)       
 
 
-🎥 [Watch the Presentation](https://www.linkedin.com/posts/hasan-raja-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-nZcD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxir-cBh5Sg8wmRHsYLqfbQOTWPp88coOo)
+🎥 [Watch the Video Presentation](https://www.linkedin.com/posts/hasan-raja-khan_datadriveninsights-resumeprojectchallenge-activity-7143472670699839489-nZcD?utm_source=share&utm_medium=member_desktop&rcm=ACoAACxir-cBh5Sg8wmRHsYLqfbQOTWPp88coOo)
